@@ -30,7 +30,6 @@ Automation with JS Application|Automation with Java frameworks|Other automation 
 <a href="https://github.com/munichbughunter/munichbughunter">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=merko" alt="Patrick's GitHub Stats" />
 </a>
-<br>
 <a href="https://github.com/munichbughunter/munichbughunter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munichbughunter&layout=compact" />
 </a>
