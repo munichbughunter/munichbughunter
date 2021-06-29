@@ -14,7 +14,7 @@ Apart from working as a Test Automation Architect, I actually build up a blog sp
 
 Automation with JS Application|Automation with Java frameworks|Other automation frameworks|API Automation|Scriptless Tools|Mobile Automation|Service Virtualization
 ----|----|----|----|----|----|----
-![](https://img.shields.io/badge/7Facette-Jest-informational?style=flat&color=2bbc8a)|
+![](https://img.shields.io/badge/7Facette-Jest-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/7Facette-JUnit5-informational?style=flat&color=blue)|
 
 
 ## &#x1f4c8; GitHub Stats
