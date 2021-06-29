@@ -19,8 +19,8 @@ Automation with JS Application|Automation with Java frameworks|Other automation 
 ![](https://img.shields.io/badge/Taiko-Gauge-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Cucumber-informational?style=flat&color=blue)||![](https://img.shields.io/badge/RestAssured-Serenity-informational?style=flat&color=blue)
 ![](https://img.shields.io/badge/Puppeteer-Jest-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Serenity-informational?style=flat&color=blue)||![](https://img.shields.io/badge/Gatling-Scala-informational?style=flat&color=ff69b4)
 ![](https://img.shields.io/badge/Selenium-Jbehave-informational?style=flat&color=blue)
-
 ![](https://img.shields.io/badge/Cypress-CucumberJS-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Cypress-Mocha-informational?style=flat&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
