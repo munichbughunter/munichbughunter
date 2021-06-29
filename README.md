@@ -12,9 +12,11 @@ Apart from working as a Test Automation Architect, I actually build up a blog sp
 
 ## 🔧 Tools & Technologies
 
-Automation with JS Application|Automation with Java frameworks|Other automation frameworks|API Automation|Mobile Automation|Service Virtualization
+Automation with JS Application|Automation with Java frameworks|Other automation frameworks|API Automation|Scriptless Tools|Mobile Automation|Service Virtualization
 ----|----|----|----|----|----|----
-![](https://img.shields.io/badge/Playwright-CucumberJS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/RestAssured-Serenity-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Appium-Java-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Wiremock-Java-informational?style=flat&color=blue)
+![](https://img.shields.io/badge/Playwright-CucumberJS-informational?style=flat&color=2bbc8a)|
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/munichbughunter/munichbughunter">
