@@ -7,23 +7,12 @@ You can find me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www
 
 ## &#x270d; Blog & Writing
 
-Apart from working as a Test Automation Architect, I actually build up a blog space - where you can find my articles in the future. 
+You can find more information about me on my [portfolio page](https://www.patrick-doering.com/) and my blog [here](https://blog.patrick-doering.com/)
 
 
 ## 🔧 Tools & Technologies
 
-Automation with JS Application|Automation with Java frameworks|Other automation frameworks|API Automation|Mobile Automation|Service Virtualization
-----|----|----|----|----|----
-![](https://img.shields.io/badge/7Facette-Jest-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/7Facette-JUnit5-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/7Facette-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Appium-Java-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Wiremock-Java-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/Playwright-Jest-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Playwright-JUnit5-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Playwright-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/RestSharp-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/Taiko-Gauge-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Pytest-Python-informational?style=flat&color=yellow)|![](https://img.shields.io/badge/RestAssured-Serenity-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/Puppeteer-Jest-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Serenity-informational?style=flat&color=blue)||![](https://img.shields.io/badge/Gatling-Scala-informational?style=flat&color=ff69b4)
-![](https://img.shields.io/badge/Selenium-Jbehave-informational?style=flat&color=blue)|||![](https://img.shields.io/badge/RequestModule-Mocha-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Cypress-CucumberJS-informational?style=flat&color=2bbc8a)|||![](https://img.shields.io/badge/Postman-Newman-informational?style=flat&color=yellowgreen)
-![](https://img.shields.io/badge/Cypress-Mocha-informational?style=flat&color=2bbc8a)|||![](https://img.shields.io/badge/JMeter-Java-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/NighwatchJS-BDD-informational?style=flat&color=2bbc8a)|||![](https://img.shields.io/badge/RequestModule-Pytest-informational?style=flat&color=yellow)
-![](https://img.shields.io/badge/TestCafe-BDD-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/WebDriverIO-Mocha-informational?style=flat&color=2bbc8a)
+I have worked with a lot of technologies, to list them all here would be too cumbersome. Therefore I created a [Tech Radar Page](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fmunichbughunter%2Ftech-radar%2Fmain%2FPatricks%2520Tech%2520Radar.json) where you can find my technologies. 
 
 ## &#x1f4c8; GitHub Stats
 
