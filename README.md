@@ -18,6 +18,15 @@ I have worked with a lot of technologies, to list them all here would be too cum
 
 <a href="https://github.com/munichbughunter/munichbughunter">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=dark" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=merko" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=gruvbox" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=tokyonight" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=onedark" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=cobalt" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=synthwave" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=highcontrast" alt="Patrick's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=dracula" alt="Patrick's GitHub Stats" />
 </a>
 <br/>
 <br/>
