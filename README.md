@@ -17,7 +17,7 @@ I have worked with a lot of technologies, to list them all here would be too cum
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/munichbughunter/munichbughunter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=gradient" alt="Patrick's GitHub Stats" />
 </a>
 <br/>
 <br/>
