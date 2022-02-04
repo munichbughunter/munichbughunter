@@ -20,11 +20,11 @@ I have worked with a lot of technologies, to list them all here would be too cum
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=merko" alt="Patrick's GitHub Stats" />
 </a>
 <br/>
+<br/>
 <a href="https://github.com/munichbughunter/munichbughunter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munichbughunter&layout" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munichbughunter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- icons without padding -->
 [1.1]: https://raw.githubusercontent.com/munichbughunter/munichbughunter/main/linkedin.png (LinkedIn icon without padding)
