@@ -24,6 +24,11 @@ I have worked with a lot of technologies, to list them all here would be too cum
 <a href="https://github.com/munichbughunter/munichbughunter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munichbughunter&layout" />
 </a>
+<br/>
+<br/>
+<a href="https://github.com/munichbughunter/munichbughunter">
+  <img aligh="center" src="https://activity-graph.herokuapp.com/graph?username=munichbughunter"/>
+</a>
 
 
 <!-- icons without padding -->
