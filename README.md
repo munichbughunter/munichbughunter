@@ -16,8 +16,6 @@ I have worked with a lot of technologies, to list them all here would be too cum
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=munichbughunter)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/munichbughunter/munichbughunter">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&theme=merko" alt="Patrick's GitHub Stats" />
 </a>
