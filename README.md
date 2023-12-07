@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-My name is **Patrick Döring** and I'm a Test Automation Architect/Quality Engineer. 
+My name is **Patrick Döring** and I'm a Lead Qualtiy Engineer. 
 I'm from Germany, living near to Munich and currently working at Pro7 Technology Solutions.
 
 You can find me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/patrick-d%C3%B6ring/)
