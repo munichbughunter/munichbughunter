@@ -7,7 +7,7 @@ You can find me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www
 
 ## &#x270d; Blog & Writing
 
-You can find more information about me on my blog [here](https://medium.com/me/stories/public))
+You can find more information about me on my blog [here](https://medium.com/me/stories/public)
 
 
 ## 🔧 Tools & Technologies
