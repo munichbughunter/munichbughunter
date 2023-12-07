@@ -30,7 +30,7 @@ I have worked with a lot of technologies, to list them all here would be too cum
 
   <!-- https://github.com/munichbughunter/github-readme-stats -->
 
-  <a href="https://github.com/munichbughunter/github-readme-stats"><img alt="Munichbughunter's Github Stats" src="https://munichbughunter-github-readme-stats.vercel.app/api/?username=Munichbughunter&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/munichbughunter/github-readme-stats"><img alt="Munichbughunter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=munichbughunter&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/munichbughunter/github-readme-stats"><img alt="Munichbughunter's Top Languages" src="https://munichbughunter-github-readme-stats.vercel.app/api/top-langs/?username=Munichbughunter&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
