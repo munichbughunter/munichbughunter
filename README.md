@@ -37,7 +37,19 @@ I have worked with a lot of technologies, to list them all here would be too cum
 
   <a href="https://github.com/munichbughunter/github-readme-activity-graph"><img alt="Munichbughunter's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Munichbughunter&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<h2 align="center">🤝 Support</h2>
 
+<p align="center">🚀 Contributions <a href="https://github.com/testla-project" title="Testla Screenplay for Playwright">Testla Screenplay for Playwright</a>, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, give them ⭐ and share it with friends!</p>
+</p>
+<p align="center">Made with ❤️</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 <!-- icons without padding -->
 [1.1]: https://raw.githubusercontent.com/munichbughunter/munichbughunter/main/linkedin.png (LinkedIn icon without padding)
