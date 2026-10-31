@@ -1,7 +1,7 @@
 ### Hello Everyone 👋
 
-My name is **Patrick Döring** and I'm a Engineering Manager. 
-I'm from Germany, living near to Munich and currently working at Telis Finanz.
+My name is **Patrick Döring** and I'm a Freelancer. 
+I'm from Germany, living near to Munich..
 
 You can find me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/patrick-d%C3%B6ring/)
 
